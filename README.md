@@ -1,4 +1,4 @@
-## Hello, I'm Henry ! :coffee:
+## Hello, I'm Henry :coffee:
 > Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 
 ### Now Playing 🎧
