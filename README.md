@@ -1,4 +1,4 @@
-## Hi there 👋
+## Spend a little more time trying to make something of yourself and a little less time trying to impress people. :coffee:
 
 <!--
 **henry5720/henry5720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
