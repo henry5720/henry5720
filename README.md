@@ -1,5 +1,8 @@
-## Spend a little more time trying to make something of yourself and a little less time trying to impress people. :coffee:
+## Hello, I'm Henry ! :coffee:
+> Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 
+### Now Playing 🎧
+[![Spotify](https://spotify-recently-played-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31uznrpamxhroyd2bt7xchxgnhce)
 <!--
 **henry5720/henry5720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
