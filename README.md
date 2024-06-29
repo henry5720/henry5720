@@ -2,7 +2,7 @@
 > Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 
 ### Most Used Languages 💻
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=true)](https://github.com/henry5720/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=true)](https://github.com/henry5720?tab=repositories)
 
 ### Now Playing 🎧
 [![Spotify](https://spotify-recently-played-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31uznrpamxhroyd2bt7xchxgnhce)
