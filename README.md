@@ -15,13 +15,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +93,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-07-06 03:36:19 UTC
+ Last Updated on 2025-07-06 03:39:17 UTC
 <!--END_SECTION:waka-->
 
 ### Now Playing 🎧
