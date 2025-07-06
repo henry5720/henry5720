@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # 暫時改為每5分鐘執行一次（測試用）
+    - cron: "0 0 * * *"  # 每天 UTC 00:00 更新
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           LOCALE: "en"
           SECTION_NAME: "waka"
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Update Dev Metrics"
+          COMMIT_MESSAGE: "docs(readme): Update Dev Metrics (WakaTime)"
           COMMIT_USERNAME: "henry5720"
           COMMIT_EMAIL: "henry5720@gmail.com"
           SHOW_UPDATED_DATE: "True"
