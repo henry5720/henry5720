@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 00:00 更新
+    - cron: "*/5 * * * *"  # 暫時改為每5分鐘執行一次（測試用）
   workflow_dispatch:
 
 jobs:
@@ -36,4 +36,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           IGNORED_REPOS: ""
           SYMBOL_VERSION: "1"
-          DEBUG_LOGGING: "False"
+          DEBUG_LOGGING: "True"
