@@ -2,8 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # - cron: "0 18 * * *"  # 每天台灣時間 02:00 更新 (UTC+8)
-    - cron: "0/5 * * * *" # 每 5 分鐘更新一次
+    - cron: "0 18 * * *"  # 每天台灣時間 02:00 更新 (UTC+8)
   workflow_dispatch:
 
 jobs:
