@@ -1,0 +1,43 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # 每天台灣時間 02:00 更新 (UTC+8)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # 核心設定
+          COMMIT_BY_ME: true
+          COMMIT_SINGLE: true
+
+          # 顯示設定
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_TIMEZONE: true
+          SHOW_SHORT_INFO: true
+          SHOW_UPDATED_DATE: true
+
+          # 避免干擾
+          SHOW_LANGUAGE_PER_REPO: false
+          IGNORED_REPOS: "spotify-recently-played,gpt-ai-assistant"
+
+          # 其他設定
+          SYMBOL_VERSION: 1
+          LOCALE: en
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          COMMIT_MESSAGE: "docs(readme): update dev metrics (wakatime)"
+          SECTION_NAME: "waka"
+          DEBUG_LOGGING: true
