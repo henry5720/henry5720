@@ -31,7 +31,7 @@ jobs:
           SHOW_UPDATED_DATE: true
 
           # 避免干擾
-          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LANGUAGE_PER_REPO: true
           IGNORED_REPOS: "spotify-recently-played,gpt-ai-assistant"
 
           # 其他設定
