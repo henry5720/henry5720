@@ -5,9 +5,11 @@
 ## Hello, I'm Henry :coffee:
 
 > #### Spend a little more time trying to make something of yourself and a little less time trying to impress people.
->
-> - ### [link: Portfolio ](https://drive.google.com/file/d/1kb96bzn4Bhdb4pImsUvKz9Oi9cx455D2/view?usp=drivesdk)
-> - ### [link: Sketchfab](https://sketchfab.com/henry4294967296/models)
+
+### Project Link ↗️
+
+- #### [Portfolio](https://drive.google.com/file/d/1kb96bzn4Bhdb4pImsUvKz9Oi9cx455D2/view?usp=drivesdk)
+- #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
 
 ---
 
