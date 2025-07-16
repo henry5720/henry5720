@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -15,7 +14,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
-          IGNORED_REPOS: "spotify-recently-played,gpt-ai-assistant"
           COMMIT_MESSAGE: "docs(readme): update wakatime metrics"
+          SHOW_LINES_OF_CODE: true
           DEBUG_LOGGING: true
-          SHOW_LOC_CHART: false
