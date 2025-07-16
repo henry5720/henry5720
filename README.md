@@ -1,24 +1,22 @@
+# Hello, I'm Henry :coffee:
+
+> #### Spend a little more time trying to make something of yourself and a little less time trying to impress people.
+ 
 ![](./images/cover.jpg)
 
 ---
-
-## Hello, I'm Henry :coffee:
-
-> #### Spend a little more time trying to make something of yourself and a little less time trying to impress people.
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-recently-played-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31uznrpamxhroyd2bt7xchxgnhce)
+
 ---
 
-### Most Used Languages 💻
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=false" />
 
 [![henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@henry5720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=true" />
-
----
 
 <!--START_SECTION:waka-->
 
@@ -113,5 +111,4 @@ Last Updated on 2025-07-16 14:54:48 UTC
 
 - #### [Portfolio](https://drive.google.com/file/d/1kb96bzn4Bhdb4pImsUvKz9Oi9cx455D2/view?usp=drivesdk)
 - #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
-
 
