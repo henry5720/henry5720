@@ -11,15 +11,15 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=true)](https://github.com/henry5720?tab=repositories)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-379-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-405-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 553.8 kB Used in GitHub's Storage 
+> 📦 553.9 kB Used in GitHub's Storage 
  > 
 > 🏆 71 Contributions in the Year 2025
  > 
@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                950 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌆 Daytime                2194 commits        ████████████░░░░░░░░░░░░░   47.50 % 
-🌃 Evening                1377 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌙 Night                  98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+🌞 Morning                195 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌆 Daytime                453 commits         ███████████░░░░░░░░░░░░░░   44.32 % 
+🌃 Evening                332 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  825 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Wednesday                1030 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Thursday                 706 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Friday                   877 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Saturday                 278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Sunday                   159 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Wednesday                206 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Friday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Saturday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Sunday                   57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 
@@ -95,7 +95,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-07-16 11:50:01 UTC
+ Last Updated on 2025-07-16 14:54:48 UTC
 <!--END_SECTION:waka-->
 
 ### Now Playing 🎧
