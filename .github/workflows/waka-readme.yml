@@ -13,5 +13,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "docs(readme): update dev metrics (wakatime)"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          COMMIT_MESSAGE: "docs(readme): update wakatime metrics"
+          SHOW_LINES_OF_CODE: true
+          DEBUG_LOGGING: true
