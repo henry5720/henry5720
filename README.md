@@ -64,3 +64,5 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 - #### [Portfolio](https://drive.google.com/file/d/1kb96bzn4Bhdb4pImsUvKz9Oi9cx455D2/view?usp=drivesdk)
 - #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
 
+### Counter
+![[](https://count.getloli.com/@test?name=test&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/@henry5720?name=henry5720&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
