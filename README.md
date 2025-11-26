@@ -19,7 +19,7 @@
 [![henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@henry5720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -64,19 +64,18 @@ Sunday                   81 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               34 hrs 24 mins      ███████████████████████░░   92.36 % 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               29 hrs 20 mins      ███████████████████████░░   93.68 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-Cursor                   37 hrs 15 mins      █████████████████████████   100.00 % 
+Cursor                   31 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        37 hrs 15 mins      █████████████████████████   100.00 % 
+teamsync-frontend        31 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +95,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-11-25 18:30:27 UTC
+ Last Updated on 2025-11-26 18:25:31 UTC
 <!--END_SECTION:waka-->
 
 ---
