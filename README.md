@@ -19,7 +19,7 @@
 [![henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@henry5720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,21 +64,21 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               37 hrs 33 mins      █████████████████████░░░░   85.30 % 
-Markdown                 4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               36 hrs 45 mins      █████████████████████░░░░   83.57 % 
+Markdown                 5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 CSS                      34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   44 hrs 1 min        █████████████████████████   100.00 % 
+Cursor                   43 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        43 hrs 48 mins      █████████████████████████   99.53 % 
+teamsync-frontend        43 hrs 46 mins      █████████████████████████   99.53 % 
 xyflow                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  44 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  43 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +98,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-12-24 18:31:17 UTC
+ Last Updated on 2025-12-25 18:30:42 UTC
 <!--END_SECTION:waka-->
 
 ---
