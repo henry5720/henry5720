@@ -16,7 +16,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry5720&theme=tokyonight&hide_title=false" />
 
-[![henry's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@henry5720&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![henry's WakaTime stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
