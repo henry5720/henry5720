@@ -64,20 +64,16 @@ Sunday                   105 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               7 hrs 48 mins       ███████████████████████░░   91.98 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Git                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   8 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-teamsync-frontend        8 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      8 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +93,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-02-20 18:50:59 UTC
+ Last Updated on 2026-02-21 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 ---
