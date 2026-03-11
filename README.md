@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-recently-played-beta.vercel.app/api/spotify)](https://open.spotify.com/user/31uznrpamxhroyd2bt7xchxgnhce)
+[![Spotify](https://spotify-recently-played-beta.vercel.app/)](https://open.spotify.com/user/31uznrpamxhroyd2bt7xchxgnhce)
 
 ---
 
