@@ -19,8 +19,6 @@
 [![henry's WakaTime stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C649%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
@@ -37,52 +35,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-🌆 Daytime                1666 commits        █████████████░░░░░░░░░░░░   52.08 % 
-🌃 Evening                948 commits         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌙 Night                  142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   588 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Tuesday                  469 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Wednesday                610 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Thursday                 507 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Markdown                 2 hrs 2 mins        ██████████████████████░░░   87.95 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-🔥 Editors: 
-Claude Code              1 hr 33 mins        █████████████████░░░░░░░░   67.27 % 
-VS Code                  45 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
-
-🐱‍💻 Projects: 
-work-docs                2 hrs 9 mins        ███████████████████████░░   92.91 % 
-teamsync-frontend        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-teamsync-backend         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -100,7 +52,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-23 20:51:04 UTC
+ Last Updated on 2026-07-24 20:48:54 UTC
 <!--END_SECTION:waka-->
 
 ---
