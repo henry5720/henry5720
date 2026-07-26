@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 540.2 kB Used in GitHub's Storage 
+> 📦 540.3 kB Used in GitHub's Storage 
  > 
 > 🏆 261 Contributions in the Year 2026
  > 
@@ -64,23 +64,16 @@ Sunday                   248 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ██████████████████████░░░   88.01 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 33 mins        █████████████████░░░░░░░░   66.61 % 
-VS Code                  46 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-work-docs                2 hrs 10 mins       ███████████████████████░░   92.95 % 
-teamsync-frontend        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-teamsync-backend         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,8 +82,8 @@ Linux                    2 hrs 20 mins       ███████████�
 JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 C#                       8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Visual Basic .NET        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
@@ -100,7 +93,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-25 20:17:29 UTC
+ Last Updated on 2026-07-26 20:12:30 UTC
 <!--END_SECTION:waka-->
 
 ---
