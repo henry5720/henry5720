@@ -19,7 +19,7 @@
 [![henry's WakaTime stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@
 
 > 📦 540.4 kB Used in GitHub's Storage 
  > 
-> 🏆 270 Contributions in the Year 2026
+> 🏆 272 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                537 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-🌆 Daytime                1663 commits        █████████████░░░░░░░░░░░░   50.67 % 
-🌃 Evening                940 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌙 Night                  142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+🌞 Morning                537 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌆 Daytime                1665 commits        █████████████░░░░░░░░░░░░   50.65 % 
+🌃 Evening                943 commits         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+🌙 Night                  142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   570 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                633 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Thursday                 576 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 314 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Sunday                   248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Monday                   570 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                633 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 576 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Sunday                   248 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 
 
@@ -64,16 +64,26 @@ Sunday                   248 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 50 mins        ████████████░░░░░░░░░░░░░   48.14 % 
+TypeScript               51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+SSH Config               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Opencode Cli             2 hrs 12 mins       ██████████████░░░░░░░░░░░   57.75 % 
+Claude Code              48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+OpenCode                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+teamsync-frontend        3 hrs 1 min         ████████████████████░░░░░   79.03 % 
+dotfiles                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+teamsync-backend         10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+mattpocock               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +103,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-31 20:41:14 UTC
+ Last Updated on 2026-08-01 20:08:38 UTC
 <!--END_SECTION:waka-->
 
 ---
