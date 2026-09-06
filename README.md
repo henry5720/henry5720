@@ -98,9 +98,10 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 ---
 
-### Project Link ↗️
+### Link ↗️
 
-- #### [Portfolio](https://drive.google.com/file/d/1kb96bzn4Bhdb4pImsUvKz9Oi9cx455D2/view?usp=drivesdk)
+- #### [Project](https://drive.google.com/drive/folders/1APQlkPhpVlf63qN5CJRx-D9h8z-6oT8D?usp=sharing)
+- #### [HackMD](https://hackmd.io/@henry5720)
 - #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
 
 ### Counter
