@@ -105,7 +105,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 - #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
 - #### [dotfile](https://github.com/henry5720/dotfiles)
 
-[![Blender](./media/blender-poster.jpg)](https://drive.google.com/drive/folders/1APQlkPhpVlf63qN5CJRx-D9h8z-6oT8D?usp=sharing)
+https://github.com/user-attachments/assets/337b5025-1d23-4c9a-86c6-cfba083f6888
 
 ### Counter
 ![[](https://count.getloli.com/@test?name=test&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/@henry5720?name=henry5720&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
