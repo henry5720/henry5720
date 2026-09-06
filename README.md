@@ -2,7 +2,7 @@
 
 > #### Spend a little more time trying to make something of yourself and a little less time trying to impress people.
  
-![](./images/cover.jpg)
+![](./media/cover.jpg)
 
 ---
 
@@ -104,6 +104,8 @@ Lua                      1 repo              █░░░░░░░░░░�
 - #### [HackMD](https://hackmd.io/@henry5720)
 - #### [Sketchfab](https://sketchfab.com/henry4294967296/models)
 - #### [dotfile](https://github.com/henry5720/dotfiles)
+
+[![Blender](./media/blender-poster.jpg)](https://drive.google.com/drive/folders/1APQlkPhpVlf63qN5CJRx-D9h8z-6oT8D?usp=sharing)
 
 ### Counter
 ![[](https://count.getloli.com/@test?name=test&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/@henry5720?name=henry5720&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
