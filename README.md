@@ -29,7 +29,7 @@
 
 > 📦 466.1 kB Used in GitHub's Storage 
  > 
-> 🏆 372 Contributions in the Year 2026
+> 🏆 402 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-🌆 Daytime                1965 commits        █████████████░░░░░░░░░░░░   51.35 % 
-🌃 Evening                1115 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌙 Night                  176 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌞 Morning                580 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌆 Daytime                1971 commits        █████████████░░░░░░░░░░░░   51.13 % 
+🌃 Evening                1126 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌙 Night                  178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   674 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  590 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Wednesday                730 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Thursday                 581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   550 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Saturday                 373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   329 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Monday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Tuesday                  590 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Wednesday                730 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   558 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Saturday                 380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Sunday                   340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
@@ -64,22 +64,16 @@ Sunday                   329 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs               ███████████████████████░░   91.99 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs               ███████████████████████░░   92.14 % 
-Codex Vscode             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wsl-exe-home-henry-code-w1 hr 10 mins        ██████████████░░░░░░░░░░░   54.10 % 
-Unknown Project          34 mins             ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-new-chat-3               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-new-chat-2               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-chatgpt-conversation-6a9b2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +93,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-12 22:14:34 UTC
+ Last Updated on 2026-09-13 23:09:18 UTC
 <!--END_SECTION:waka-->
 
 ---
