@@ -19,42 +19,42 @@
 [![henry's WakaTime stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 467.1 kB Used in GitHub's Storage 
+> 📦 467.5 kB Used in GitHub's Storage 
  > 
-> 🏆 529 Contributions in the Year 2026
+> 🏆 698 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                662 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-🌆 Daytime                2179 commits        █████████████░░░░░░░░░░░░   50.60 % 
-🌃 Evening                1251 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-🌙 Night                  214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌞 Morning                718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌆 Daytime                2296 commits        █████████████░░░░░░░░░░░░   51.08 % 
+🌃 Evening                1264 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌙 Night                  217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Tuesday                  723 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Wednesday                834 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Thursday                 644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Friday                   609 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Sunday                   352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Monday                   827 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Tuesday                  719 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                827 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 669 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Saturday                 427 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Sunday                   394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
 
 
@@ -64,26 +64,37 @@ Sunday                   352 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Markdown                 5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Text                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              21 hrs 35 mins      ████████████████████████░   97.81 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+teamsync-frontend        12 hrs 51 mins      ███████████████░░░░░░░░░░   58.24 % 
+chezmoi                  6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+agent-runner             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+teamsync-tutorials       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+feat-recipe-frame-sequenc18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    22 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Python                   9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -93,7 +104,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-01 02:00:58 UTC
+ Last Updated on 2026-10-06 03:17:44 UTC
 <!--END_SECTION:waka-->
 
 ---
