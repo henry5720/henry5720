@@ -19,17 +19,15 @@
 [![henry's WakaTime stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C690%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2028%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 467.5 kB Used in GitHub's Storage 
+> 📦 471.3 kB Used in GitHub's Storage 
  > 
-> 🏆 698 Contributions in the Year 2026
+> 🏆 1,034 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,74 +35,60 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-🌆 Daytime                2296 commits        █████████████░░░░░░░░░░░░   51.08 % 
-🌃 Evening                1264 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   827 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Tuesday                  719 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                827 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Thursday                 669 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Saturday                 427 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Sunday                   394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    6 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Markdown                 5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Text                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Bash                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    28 hrs 32 mins      ████████████████████████░   96.72 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 35 mins      ████████████████████████░   97.81 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+OpenCode                 29 hrs 4 mins       █████████████████████████   98.51 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        12 hrs 51 mins      ███████████████░░░░░░░░░░   58.24 % 
-chezmoi                  6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-agent-runner             1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-teamsync-tutorials       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-feat-recipe-frame-sequenc18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+skillshare               29 hrs 9 mins       █████████████████████████   98.80 % 
+teamsync-frontend        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+code                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+spc-backend              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+opencode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+🤖 **AI Coding This Week** 
 
 ```text
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+⏱ AI Coding Time: 29 hrs 30 mins (100.0%)
+
+✍️ 1,524 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,445,137 Input Tokens, 102,954 Output Tokens
+
+💵 $11.87 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 318 AI Prompts
+
+Opus                     1,751 lines         █████████████████████████   99.38 % 
+GPT                      11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/henry5720/henry5720/main/assets/bar_graph.png)
-
-
- Last Updated on 2026-10-06 03:17:44 UTC
+ Last Updated on 2026-10-17 02:30:21 UTC
 <!--END_SECTION:waka-->
 
 ---
