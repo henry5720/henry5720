@@ -6,21 +6,31 @@ README 裡 `<!--START_SECTION:waka-->` 到 `<!--END_SECTION:waka-->` 之間的�
 
 ```mermaid
 flowchart LR
-    E["編輯器 / Claude Code<br/>（裝 WakaTime plugin）"] -->|回報寫 code 的時間| W[(WakaTime)]
+    subgraph M["每台寫 code 的機器"]
+        P1[Claude Code plugin] --> CLI
+        P2[Codex plugin] --> CLI
+        P3[OpenCode plugin] --> CLI
+        P4[VS Code / code-server 擴充] --> CLI
+        CLI["wakatime-cli<br/>+ ~/.wakatime.cfg（API key）"]
+    end
+    CLI -->|heartbeat，含 AI coding| W[(WakaTime)]
     W -->|WAKATIME_API_KEY| A["GitHub Action<br/>每天 02:00 (UTC+8)"]
     G[(GitHub API)] -->|GH_TOKEN| A
     A -->|commit| R["README.md<br/>waka 區塊"]
 ```
 
-**沒有 WakaTime plugin 在回報，README 就沒有東西可以顯示。** 統計是從 plugin 裝好之後才開始累積的，沒辦法往回補。
+**wakatime-cli 和 API key 每台機器共用一份，但每個工具要各裝一個 plugin。** cli 不會自己記錄，沒裝 plugin 的工具，cli 根本不知道你在用它。AI 資料（AI 和人寫的行數、token、花費）是 cli 被 plugin 叫起來時，順便去讀各 agent 的對話紀錄算出來的。
+
+**沒有 plugin 在回報，README 就沒有東西可以顯示。** 統計是從 plugin 裝好之後才開始累積的。key 不見的那段期間，資料會先存在本機，換回 key 後可以補送。
 
 ## 開始統計要做的事
 
 ```text
 1. WakaTime
    ├── 註冊帳號
-   ├── 每個寫 code 的地方都裝 plugin（https://wakatime.com/plugins）
-   │     VS Code、終端機、Claude Code…，只要有一個地方沒裝，那邊的時間就不會算進去
+   ├── 每台機器、每個寫 code 的工具都裝 plugin（https://wakatime.com/plugins）
+   │     Claude Code、Codex、OpenCode、VS Code…，哪個沒裝，那邊的時間就不會算進去
+   │     Linux 機器由 dotfiles（chezmoi）的 `wakatime` 選裝工具負責裝
    └── 到 https://wakatime.com/settings/api-key 複製 API key
 
 2. GitHub repo secrets（Settings → Secrets and variables → Actions）
