@@ -39,58 +39,58 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 40 hrs 9 mins       ████████████░░░░░░░░░░░░░   48.12 % 
-JavaScript               13 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Other                    10 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Text                     6 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Python                   4 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Markdown                 31 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.07 % 
+JavaScript               10 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Other                    10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Python                   4 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Text                     3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Claude Code              58 hrs 42 mins      ██████████████████░░░░░░░   70.34 % 
-Codex Vscode             24 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              43 hrs 21 mins      ████████████████░░░░░░░░░   63.68 % 
+Codex Vscode             24 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.69 % 
+Codex CLI                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Zsh                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        71 hrs 44 mins      █████████████████████░░░░   85.95 % 
-local-e2e-bootstrap      5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-teamsync-tutorials       2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-agent-runner             1 hr 25 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-work-agent-deploy        1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+teamsync-frontend        57 hrs 6 mins       █████████████████████░░░░   83.88 % 
+local-e2e-bootstrap      5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+teamsync-tutorials       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+agent-runner             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+work-agent-deploy        1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Linux                    68 hrs 36 mins      █████████████████████░░░░   82.20 % 
-WSL                      14 hrs 51 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Linux                    53 hrs 15 mins      ████████████████████░░░░░   78.21 % 
+WSL                      14 hrs 50 mins      █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 83 hrs 25 mins (99.95%)
+⏱ AI Coding Time: 68 hrs 4 mins (99.97%)
 
-✍️ 50,519 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 33,714 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 105,228,714 Input Tokens, 9,791,752 Output Tokens
+🔤 86,053,125 Input Tokens, 8,534,747 Output Tokens
 
-💵 $1228.12 Estimated AI Cost This Week
+💵 $988.17 Estimated AI Cost This Week
 
-🧠 286 AI Sessions, 1821 AI Prompts
+🧠 261 AI Sessions, 1533 AI Prompts
 
-Opus                     48,891 lines        ████████████████████████░   95.85 % 
-GPT                      1,156 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Haiku                    962 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Opus                     33,502 lines        ████████████████████████░   94.05 % 
+GPT                      1,156 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Haiku                    962 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,596 characters per prompt
+📚 Verbose Prompter — average 2,506 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-24 20:11:58 UTC
+ Last Updated on 2026-10-25 20:21:51 UTC
 <!--END_SECTION:waka-->
 
 ---
