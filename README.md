@@ -17,15 +17,15 @@
 [![henry's GitHub PR stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-510%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-511%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 472.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,213 Contributions in the Year 2026
+> 🏆 1,219 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,56 +39,56 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 12 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Other                    10 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-JavaScript               7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Text                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 11 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Other                    8 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+JavaScript               6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 50 mins      █████████████████████░░░░   84.95 % 
-Codex Vscode             5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Codex Exec               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Claude Code              31 hrs 12 mins      ██████████████████████░░░   87.06 % 
+Codex Vscode             3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Codex Exec               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Code Server              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        25 hrs 3 mins       ████████████████░░░░░░░░░   62.91 % 
-work-agent               3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-agent-runner             3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-work-agent-deploy        2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-teamsync-tutorials       2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+teamsync-frontend        23 hrs 3 mins       ████████████████░░░░░░░░░   64.33 % 
+work-agent               3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+teamsync-tutorials       2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+agent-runner             2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+work-agent-deploy        1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Linux                    39 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 47 mins (99.92%)
+⏱ AI Coding Time: 35 hrs 48 mins (99.92%)
 
-✍️ 28,184 lines written by AI, 41 lines written by hand (99.85% AI-written)
+✍️ 27,115 lines written by AI, 41 lines written by hand (99.85% AI-written)
 
-🔤 36,326,826 Input Tokens, 6,176,746 Output Tokens
+🔤 32,588,942 Input Tokens, 5,700,870 Output Tokens
 
-💵 $594.90 Estimated AI Cost This Week
+💵 $556.55 Estimated AI Cost This Week
 
-🧠 140 AI Sessions, 958 AI Prompts
+🧠 124 AI Sessions, 851 AI Prompts
 
-Opus                     29,683 lines        █████████████████████████   98.70 % 
-GPT                      378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Opus                     28,532 lines        █████████████████████████   98.64 % 
+GPT                      378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 Sonnet                   14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 2,303 characters per prompt
+📚 Verbose Prompter — average 2,266 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-30 21:55:31 UTC
+ Last Updated on 2026-10-31 20:57:46 UTC
 <!--END_SECTION:waka-->
 
 ---
