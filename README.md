@@ -17,15 +17,15 @@
 [![henry's GitHub PR stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C834%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-549%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-560%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 479.7 kB Used in GitHub's Storage 
+> 📦 478.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,503 Contributions in the Year 2026
+> 🏆 1,574 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,57 +39,57 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 15 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
-Other                    12 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Bash                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-JavaScript               2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Text                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Markdown                 18 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   37.50 % 
+Other                    11 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Bash                     5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JavaScript               4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Python                   2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 21 mins      ███████████████████████░░   91.68 % 
-Codex Vscode             3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Opencode Cli             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              46 hrs 20 mins      ███████████████████████░░   92.76 % 
+Codex Vscode             3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Opencode Cli             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        15 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.70 % 
-chezmoi                  13 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-vivispa-frontend         3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-work-agent               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-skillshare               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+chezmoi                  20 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.70 % 
+teamsync-frontend        16 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+skillshare               3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+RPA-Block                3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+vivispa-frontend         3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-Linux                    43 hrs 44 mins      █████████████████████████   99.34 % 
-Windows                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Linux                    49 hrs 40 mins      █████████████████████████   99.41 % 
+Windows                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 42 mins (99.27%)
+⏱ AI Coding Time: 49 hrs 40 mins (99.41%)
 
-✍️ 23,617 lines written by AI, 32 lines written by hand (99.86% AI-written)
+✍️ 31,205 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,994,962 Input Tokens, 6,332,473 Output Tokens
+🔤 38,253,656 Input Tokens, 7,603,583 Output Tokens
 
-💵 $554.48 Estimated AI Cost This Week
+💵 $697.07 Estimated AI Cost This Week
 
-🧠 139 AI Sessions, 1214 AI Prompts
+🧠 143 AI Sessions, 1469 AI Prompts
 
-Opus                     25,495 lines        █████████████████████████   98.44 % 
-GPT                      404 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Opus                     33,290 lines        █████████████████████████   99.74 % 
+GPT                      86 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 1,907 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,783 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-11-05 23:15:07 UTC
+ Last Updated on 2026-11-06 22:41:54 UTC
 <!--END_SECTION:waka-->
 
 ---
