@@ -17,15 +17,15 @@
 [![henry's GitHub PR stats](https://github-readme-stats-fast.vercel.app/api?username=henry5720&show=prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-701%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-709%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 497.5 kB Used in GitHub's Storage 
+> 📦 498.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,829 Contributions in the Year 2026
+> 🏆 1,933 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,57 +39,58 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 21 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.75 % 
-JavaScript               12 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Python                   9 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Other                    8 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Text                     3 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 20 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Other                    11 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+JavaScript               9 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Python                   9 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Text                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🔥 Editors: 
-Claude Code              66 hrs 31 mins      ████████████████████████░   97.85 % 
-Codex Vscode             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Claude Code              64 hrs 52 mins      ████████████████████████░   97.80 % 
+Codex Vscode             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-teamsync-frontend        40 hrs 11 mins      ███████████████░░░░░░░░░░   59.12 % 
-chezmoi                  12 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-teamsync-tutorials       11 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-RPA-Block                1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-code                     1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+teamsync-frontend        35 hrs 29 mins      █████████████░░░░░░░░░░░░   53.51 % 
+chezmoi                  14 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+teamsync-tutorials       8 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+code                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+skillshare               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Linux                    67 hrs 41 mins      █████████████████████████   99.57 % 
-WSL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Linux                    66 hrs 2 mins       █████████████████████████   99.56 % 
+WSL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 67 hrs 58 mins (99.97%)
+⏱ AI Coding Time: 66 hrs 19 mins (99.97%)
 
-✍️ 56,699 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 51,636 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 76,333,331 Input Tokens, 11,810,253 Output Tokens
+🔤 66,145,629 Input Tokens, 10,459,593 Output Tokens
 
-💵 $1378.35 Estimated AI Cost This Week
+💵 $1210.54 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 1437 AI Prompts
+🧠 94 AI Sessions, 1455 AI Prompts
 
-Opus                     58,710 lines        █████████████████████████   100.00 % 
+Opus                     53,779 lines        █████████████████████████   99.92 % 
+Sonnet                   43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,769 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 1,747 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-11-20 23:39:59 UTC
+ Last Updated on 2026-11-21 22:45:19 UTC
 <!--END_SECTION:waka-->
 
 ---
